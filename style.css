@@ -57,4 +57,23 @@ main {
     border: 10px black solid;
 }
 
+@media(max-width: 800px){
+    #tecla0{
+    width: 116px;
+    }
+
+    button{
+    height: 55px;
+    width: 50px;
+    font-size: 20px;
+    }
+
+    #leitor{
+    width: 250px;
+    }
+    #saida{
+        font-size: 20px
+    }
+
+}
 @import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
