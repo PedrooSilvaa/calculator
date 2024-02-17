@@ -4,6 +4,7 @@
     font-family: 'Protest Strike', sans-serif;
     color: white;
     font-weight: 900;
+    background-color: black;
 }
 
 button {
@@ -62,6 +63,11 @@ main {
     width: 116px;
     }
 
+    #principal {
+        width: 70%;
+        height: 70%;
+    }
+
     button{
     height: 55px;
     width: 50px;
@@ -69,10 +75,10 @@ main {
     }
 
     #leitor{
-    width: 250px;
+    width: 90%;
     }
     #saida{
-        font-size: 20px
+        font-size: 50px
     }
 
 }
